@@ -22,7 +22,7 @@
         {
           "cards": {
             "red": 0,
-            "yellow": 1,
+            "yellow": 0,
             "yellowred": 0
           }
         },
@@ -63,9 +63,9 @@
         },
         {
           "dribbles": {
-            "attempts": 71,
+            "attempts": 69,
             "past": "",
-            "success": 37
+            "success": 33
           }
         }
       ]

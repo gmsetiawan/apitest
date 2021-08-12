@@ -1,72 +1,186 @@
 {
-  "topscores": [
+  "football": [
     {
-      "player": {
-        "id": 1,
-        "age": 28,
-        "birth": {
-          "country": "England",
-          "date": "1993-07-28",
-          "place": "London"
-        },
-        "firstname": "Harry",
-        "height": "188 cm",
-        "injured": false,
-        "lastname": "Kane",
-        "name": "H. Kane",
-        "nationality": "England",
-        "photo": "https://media.api-sports.io/football/players/184.png",
-        "weight": "86 kg"
+      "league": {
+        "id": 4,
+        "name": "Euro Championship",
+        "type": "Cup",
+        "logo": "https://media.api-sports.io/football/leagues/4.png"
       },
-      "statistics": [
+      "country": {
+        "name": "World",
+        "code": "NULL",
+        "flag": "NULL"
+      },
+      "seasons": [
         {
-          "cards": {
-            "red": 0,
-            "yellow": 0,
-            "yellowred": 0
-          }
+          "year": 2008,
+          "start": "2008-06-07",
+          "end": "2008-06-29",
+          "current": false,
+          "coverage": {
+            "fixtures": {
+              "events": true,
+              "lineups": true,
+              "statistics_fixtures": false,
+              "statistics_players": false
+            }
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
         },
         {
-          "dribbles": {
-            "attempts": 71,
-            "past": "",
-            "success": 37
-          }
+          "year": 2012,
+          "start": "2012-06-08",
+          "end": "2012-07-01",
+          "current": false,
+          "coverage": {
+            "fixtures": {
+              "events": true,
+              "lineups": true,
+              "statistics_fixtures": false,
+              "statistics_players": false
+            }
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        },
+        {
+          "year": 2016,
+          "start": "2016-06-10",
+          "end": "2016-07-10",
+          "current": false,
+          "coverage": {
+            "fixtures": {
+              "events": true,
+              "lineups": true,
+              "statistics_fixtures": true,
+              "statistics_players": true
+            }
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        },
+        {
+          "year": 2020,
+          "start": "2019-03-21",
+          "end": "2021-06-23",
+          "current": true,
+          "coverage": {
+            "fixtures": {
+              "events": true,
+              "lineups": true,
+              "statistics_fixtures": true,
+              "statistics_players": true
+            }
+          },
+          "standings": true,
+          "players": false,
+          "top_scorers": false,
+          "top_assists": false,
+          "top_cards": false,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
         }
       ]
     },
     {
-      "player": {
-        "id": 2,
-        "age": 29,
-        "birth": {
-          "country": "Egypt",
-          "date": "1992-06-15",
-          "place": "Muḥāfaẓat al Gharbiyya"
-        },
-        "firstname": "Mohamed",
-        "height": "175 cm",
-        "injured": false,
-        "lastname": "Salah Ghaly",
-        "name": "Mohamed Salah",
-        "nationality": "Egypt",
-        "photo": "https://media.api-sports.io/football/players/306.png",
-        "weight": "71 kg"
+      "league": {
+        "id": 21,
+        "name": "Confederations Cup",
+        "type": "Cup",
+        "logo": "https://media.api-sports.io/football/leagues/21.png"
       },
-      "statistics": [
+      "country": {
+        "name": "World",
+        "code": "NULL",
+        "flag": "NULL"
+      },
+      "seasons": [
         {
-          "cards": {
-            "red": 0,
-            "yellow": 1,
-            "yellowred": 0
-          }
+          "year": 2009,
+          "start": "2009-06-14",
+          "end": "2009-06-28",
+          "current": false,
+          "coverage": {
+            "fixtures": {
+              "events": true,
+              "lineups": true,
+              "statistics_fixtures": false,
+              "statistics_players": false
+            }
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
         },
         {
-          "dribbles": {
-            "attempts": 69,
-            "past": "",
-            "success": 33
-          }
+          "year": 2013,
+          "start": "2013-06-15",
+          "end": "2013-06-30",
+          "current": false,
+          "coverage": {
+            "fixtures": {
+              "events": true,
+              "lineups": true,
+              "statistics_fixtures": false,
+              "statistics_players": false
+            }
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
+        },
+        {
+          "year": 2017,
+          "start": "2017-06-17",
+          "end": "2017-07-02",
+          "current": true,
+          "coverage": {
+            "fixtures": {
+              "events": true,
+              "lineups": true,
+              "statistics_fixtures": true,
+              "statistics_players": false
+            }
+          },
+          "standings": false,
+          "players": true,
+          "top_scorers": true,
+          "top_assists": true,
+          "top_cards": true,
+          "injuries": false,
+          "predictions": true,
+          "odds": false
         }
       ]
     }

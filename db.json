@@ -1,0 +1,38 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "age": 28,
+      "birth": {
+        "country": "England",
+        "date": "1993-07-28",
+        "place": "London"
+      },
+      "firstname": "Harry",
+      "height": "188 cm",
+      "injured": false,
+      "lastname": "Kane",
+      "name": "H. Kane",
+      "nationality": "England",
+      "photo": "https://media.api-sports.io/football/players/184.png",
+      "weight": "86 kg"
+    },
+    {
+      "id": 2,
+      "age": 29,
+      "birth": {
+        "country": "Egypt",
+        "date": "1992-06-15",
+        "place": "Muḥāfaẓat al Gharbiyya"
+      },
+      "firstname": "Mohamed",
+      "height": "175 cm",
+      "injured": false,
+      "lastname": "Salah Ghaly",
+      "name": "Mohamed Salah",
+      "nationality": "Egypt",
+      "photo": "https://media.api-sports.io/football/players/306.png",
+      "weight": "71 kg"
+    }
+  ]
+}

@@ -24,16 +24,16 @@
               "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
-            }
-          },
-          "standings": false,
-          "players": true,
-          "top_scorers": true,
-          "top_assists": true,
-          "top_cards": true,
-          "injuries": false,
-          "predictions": true,
-          "odds": false
+            },
+            "standings": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         },
         {
           "year": 2012,
@@ -46,16 +46,16 @@
               "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
-            }
-          },
-          "standings": false,
-          "players": true,
-          "top_scorers": true,
-          "top_assists": true,
-          "top_cards": true,
-          "injuries": false,
-          "predictions": true,
-          "odds": false
+            },
+            "standings": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         },
         {
           "year": 2016,
@@ -68,16 +68,16 @@
               "lineups": true,
               "statistics_fixtures": true,
               "statistics_players": true
-            }
-          },
-          "standings": false,
-          "players": true,
-          "top_scorers": true,
-          "top_assists": true,
-          "top_cards": true,
-          "injuries": false,
-          "predictions": true,
-          "odds": false
+            },
+            "standings": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         },
         {
           "year": 2020,
@@ -90,16 +90,16 @@
               "lineups": true,
               "statistics_fixtures": true,
               "statistics_players": true
-            }
-          },
-          "standings": true,
-          "players": false,
-          "top_scorers": false,
-          "top_assists": false,
-          "top_cards": false,
-          "injuries": false,
-          "predictions": true,
-          "odds": false
+            },
+            "standings": true,
+            "players": false,
+            "top_scorers": false,
+            "top_assists": false,
+            "top_cards": false,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         }
       ]
     },
@@ -127,16 +127,16 @@
               "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
-            }
-          },
-          "standings": false,
-          "players": true,
-          "top_scorers": true,
-          "top_assists": true,
-          "top_cards": true,
-          "injuries": false,
-          "predictions": true,
-          "odds": false
+            },
+            "standings": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         },
         {
           "year": 2013,
@@ -149,16 +149,16 @@
               "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
-            }
-          },
-          "standings": false,
-          "players": true,
-          "top_scorers": true,
-          "top_assists": true,
-          "top_cards": true,
-          "injuries": false,
-          "predictions": true,
-          "odds": false
+            },
+            "standings": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         },
         {
           "year": 2017,
@@ -171,16 +171,16 @@
               "lineups": true,
               "statistics_fixtures": true,
               "statistics_players": false
-            }
-          },
-          "standings": false,
-          "players": true,
-          "top_scorers": true,
-          "top_assists": true,
-          "top_cards": true,
-          "injuries": false,
-          "predictions": true,
-          "odds": false
+            },
+            "standings": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         }
       ]
     },
@@ -208,16 +208,16 @@
               "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
-            }
-          },
-          "standings": true,
-          "players": true,
-          "top_scorers": true,
-          "top_assists": true,
-          "top_cards": true,
-          "injuries": false,
-          "predictions": true,
-          "odds": false
+            },
+            "standings": true,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         },
         {
           "year": 2013,
@@ -230,16 +230,16 @@
               "lineups": true,
               "statistics_fixtures": false,
               "statistics_players": false
-            }
-          },
-          "standings": false,
-          "players": true,
-          "top_scorers": true,
-          "top_assists": true,
-          "top_cards": true,
-          "injuries": false,
-          "predictions": true,
-          "odds": false
+            },
+            "standings": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         },
         {
           "year": 2017,
@@ -252,16 +252,16 @@
               "lineups": true,
               "statistics_fixtures": true,
               "statistics_players": false
-            }
-          },
-          "standings": false,
-          "players": true,
-          "top_scorers": true,
-          "top_assists": true,
-          "top_cards": true,
-          "injuries": false,
-          "predictions": true,
-          "odds": false
+            },
+            "standings": false,
+            "players": true,
+            "top_scorers": true,
+            "top_assists": true,
+            "top_cards": true,
+            "injuries": false,
+            "predictions": true,
+            "odds": false
+          }
         }
       ]
     }
